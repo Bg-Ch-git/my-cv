@@ -1,4 +1,4 @@
-baseURL: https://hugo-toha.github.io
+baseURL: https://bogdan-chuzhinov.com/
 
 languageCode: bn
 title: "John's Blog"
@@ -70,7 +70,7 @@ params:
     favicon: /images/site/favicon.png
 
   # GitHub repo of your site
-  gitRepo: https://github.com/hugo-toha/hugo-toha.github.io
+  gitRepo: https://github.com/Bg-Ch-git/my-cv
   # Default branch of your Git repo
   gitBranch: main
 
@@ -153,9 +153,9 @@ params:
         #   autoInit: true
         #   hideDeleted: false
 
-    # Enable Analytics
+    # Enable Analytics //TODO
     analytics:
-      enabled: true
+      enabled: false
       services:
         # Google Analytics
         google:
@@ -298,7 +298,7 @@ params:
       enable: true
 
     # Show/hide newsletter section in the footer. Default is "true".
-    # Currently, it supports "mailchimp".
+    # Currently, it supports "mailchimp". //TODO
     newsletter:
       enable: false
       # provider: mailchimp

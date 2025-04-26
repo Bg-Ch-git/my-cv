@@ -1,4 +1,4 @@
-module github.com/hugo-toha/hugo-toha.github.io
+module github.com/Bg-Ch-git/my-cv
 
 go 1.21
 
