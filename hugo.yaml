@@ -1,7 +1,7 @@
 baseURL: https://bogdan-chuzhinov.com/
 
-languageCode: bn
-title: "John's Blog"
+languageCode: en
+title: "Bogdan Chuzhinov"
 
 # Use Hugo modules to add theme
 module:
@@ -23,7 +23,7 @@ languages:
   en:
     languageCode: en
     languageName: English
-    title: "John's Blog"
+    title: "Chuzhinov B. | Portfolio"
     weight: 1
   bn:
     languageCode: bn
@@ -58,16 +58,16 @@ enableEmoji: true
 # Site parameters
 params:
   # Background image of the landing page
-  background: /images/site/background.jpg
+  background: /images/site/background-image.jpg
   # Background image of the landing page for dark theme
-  #darkBackground: /images/site/background.jpg
+  darkBackground: /images/site/dark-background-image.jpg
 
   # Provide logos for your site. The inverted logo will be used in the initial
   # transparent navbar and the main logo will be used in the non-transparent navbar.
   logo:
-    main: /images/site/main-logo.png
-    inverted: /images/site/inverted-logo.png
-    favicon: /images/site/favicon.png
+    main: /images/site/main-logo.svg
+    inverted: /images/site/inverted-logo.svg
+    favicon: /images/site/favicon.svg
 
   # GitHub repo of your site
   gitRepo: https://github.com/Bg-Ch-git/my-cv
@@ -76,7 +76,7 @@ params:
 
   # Configure the number of section title visible in the top navbar
   topNavbar:
-    maxVisibleSections: 5
+    maxVisibleSections: 7
 
   # Configure various features of this theme
   features:
@@ -98,9 +98,9 @@ params:
     portfolio:
       enable: true
 
-    # Enable and configure blog posts
+    # Enable and configure blog posts //TODO
     blog:
-      enable: true
+      enable: false
       showAuthor: true # shows the author of post (defaults true)
       # Share post on different social media
       shareButtons:
@@ -115,9 +115,9 @@ params:
         # diaspora: true
         # mastodon: true
 
-    # Enable & configure "Notes" features
+    # Enable & configure "Notes" features //TODO
     notes:
-      enable: true
+      enable: false
 
     # Enable comment feature. There, should be only one of them.
     comment:
@@ -306,4 +306,4 @@ params:
 
     # Show/hide disclaimer notice in the footer. Default is "false".
     disclaimer:
-      enable: true
+      enable: false
