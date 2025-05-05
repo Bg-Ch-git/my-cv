@@ -30,15 +30,15 @@ publications:
   - name: Dr. Valeriy Bardakov
     url: https://www.researchgate.net/profile/Valeriy-Bardakov
   - name: Bg. Ch.
-    url: ''
+    url: '/'
   - name: Ivan Emelyanenkov
     url: https://www.mathnet.ru/php/person.phtml?option_lang=eng&personid=154249
   - name: Maxim Ivanov
-    url: ''
+    url: https://www.researchgate.net/profile/Maxim-Ivanov-9
   - name: Ph.D. Tatyana Kozlovskaya
     url: https://www.researchgate.net/profile/T-Kozlovskaya
   - name: Vadim Leshkov
-    url: ''
+    url: https://math.virginia.edu/people/frj5jd/
   paper:
     summary: The $n$-simplex equation was introduced by Zamolodchikov as a generalization of the Yang-Baxter equation which becomes the 2-simplex equation in this terms. In the present article, we suggest general approaches to construction of solutions of the $n$-simplex equation, describe certain types of solutions, and introduce an operation that allows us to construct, under certain conditions, a solution of the $(n + m + k)$-simplex equation from solutions of the $(n + k)$-simplex equation and $(m + k)$-simplex equation. We consider the tropicalization of rational solutions and discuss its generalizations. We prove that a solution of the $n$-simplex equation on $G$ can be constructed from solutions of this equation on $H$ and $K$ if $G$ is an extension of a group $H$ by a group $K$. We also found solutions of the parametric Yang-Baxter equation on $H$ with parameters in $K$. We introduce ternary algebras for studying the 3-simplex equation and present examples of such algebras that provide us with solutions of the 3-simplex equation. We found all elementary verbal solutions of the 3-simplex equation on a free group.
     url: https://drive.google.com/file/d/1aEP9oA4BedE8xeMlBMO82HJTxtofQbml/view?usp=sharing
@@ -52,7 +52,7 @@ publications:
     url: https://www.mdpi.com/2073-8994/15/8
   authors:
   - name: Bg. Ch.
-    url: ''
+    url: '/'
   - name: Dr. Andrey Vesnin
     url: https://scholar.google.ru/citations?user=c-bm8yYAAAAJ&hl=ru
   paper:
