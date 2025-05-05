@@ -10,73 +10,73 @@ section:
 
 # filter buttons
 buttons:
-- name: All
-  filter: "all"
-- name: "Machine Learning"
-  filter: "machinelearning"
-- name: "Image Processing"
-  filter: "image-processing"
-- name: Security
-  filter: "security"
+#- name: All
+#  filter: "all"
+#- name: "Machine Learning"
+#  filter: "machinelearning"
+#- name: "Image Processing"
+#  filter: "image-processing"
+#- name: Security
+#  filter: "security"
 
 # your publications
 publications:
-- title: An Example Paper on Machine Learning
+- title: Set-Theoretical Solutions of the $n$-Simplex Equation
   publishedIn:
-    name: 2020 IEEE Region Symposium (TENSYMP)
-    date: 7 June 2020
-    url: https://example.com
+    name: Siberian Advances in Mathematics, 34(1), 1-40
+    date: 11 March 2024
+    url: https://link.springer.com/article/10.1134/S1055134424010012
   authors:
-  - name: Dr. Madman
-    url: https://example.com
-  - name: Dr. Lessmad
-    url: https://example.com
-  - name: Dr. Moremad
-    url: https://example.com
-  - name: Dr. Goodman
-    url: https://example.com
+  - name: Dr. Valeriy Bardakov
+    url: https://www.researchgate.net/profile/Valeriy-Bardakov
+  - name: Bg. Ch.
+    url: ''
+  - name: Ivan Emelyanenkov
+    url: https://www.mathnet.ru/php/person.phtml?option_lang=eng&personid=154249
+  - name: Maxim Ivanov
+    url: ''
+  - name: Ph.D. Tatyana Kozlovskaya
+    url: https://www.researchgate.net/profile/T-Kozlovskaya
+  - name: Vadim Leshkov
+    url: ''
   paper:
-    summary: Voluptate in id id voluptate laboris. Minim mollit aliquip sit aliqua ut exercitation voluptate eiusmod consequat pariatur sunt enim veniam. Velit esse tempor laboris anim tempor officia. Magna non labore duis do esse sit do ipsum culpa. Officia consequat id non duis culpa dolor. Excepteur magna non nostrud cupidatat aute aliqua aliquip.
-    url: https://example.com
-  categories: ["machinelearning","image-processing"]
-  tags: ["Machine Learning", "Autonomous Driving", "Computer Vision"]
+    summary: The $n$-simplex equation was introduced by Zamolodchikov as a generalization of the Yang-Baxter equation which becomes the 2-simplex equation in this terms. In the present article, we suggest general approaches to construction of solutions of the $n$-simplex equation, describe certain types of solutions, and introduce an operation that allows us to construct, under certain conditions, a solution of the $(n + m + k)$-simplex equation from solutions of the $(n + k)$-simplex equation and $(m + k)$-simplex equation. We consider the tropicalization of rational solutions and discuss its generalizations. We prove that a solution of the $n$-simplex equation on $G$ can be constructed from solutions of this equation on $H$ and $K$ if $G$ is an extension of a group $H$ by a group $K$. We also found solutions of the parametric Yang-Baxter equation on $H$ with parameters in $K$. We introduce ternary algebras for studying the 3-simplex equation and present examples of such algebras that provide us with solutions of the 3-simplex equation. We found all elementary verbal solutions of the 3-simplex equation on a free group.
+    url: https://drive.google.com/file/d/1aEP9oA4BedE8xeMlBMO82HJTxtofQbml/view?usp=sharing
+  categories: []
+  tags: []
 
-- title: An Sample Paper on Image Processing
+- title: Representations of Flat Virtual Braids by Automorphisms of Free Group
   publishedIn:
-    name: 2020 IEEE Region Symposium (TENSYMP)
-    date: 7 June 2020
-    url: https://example.com
+    name: Symmetry, 15(8), 1538.
+    date: 3 August 2023
+    url: https://www.mdpi.com/2073-8994/15/8
   authors:
-  - name: Dr. Madman
-    url: https://example.com
-  - name: Dr. Lessmad
-    url: https://example.com
-  - name: Dr. Moremad
-    url: https://example.com
-  - name: Dr. Goodman
-    url: https://example.com
+  - name: Bg. Ch.
+    url: ''
+  - name: Dr. Andrey Vesnin
+    url: https://scholar.google.ru/citations?user=c-bm8yYAAAAJ&hl=ru
   paper:
-    summary: Ullamco magna minim cupidatat Lorem ea ex aliqua fugiat et. Dolor quis cillum ea duis irure et commodo aliquip consectetur ullamco labore ut anim nisi. Commodo reprehenderit est consectetur tempor adipisicing occaecat exercitation amet do aliquip dolor do irure. Labore officia ut magna pariatur reprehenderit et ex sit sunt. Magna proident ullamco adipisicing sit.
-    url: https://example.com
-  categories: ["image-processing"]
-  tags: ["Image Processing", "Computer Vision"]
+    summary: Representations of braid group $B_n$ on $n\ge2$ strands by automorphisms of a free group of rank $n$ go back to Artin. In 1991, Kauffman introduced a theory of virtual braids, virtual knots, and links. The virtual braid group $VB_n$ on $n\ge2$ strands is an extension of the classical braid group $B_n$ by the symmetric group $S_n$. In this paper, we consider flat virtual braid groups $FVB_n$ on $n\ge2$ strands and construct a family of representations of $FVB_n$ by automorphisms of free groups of rank $2n$. It has been established that these representations do not preserve the forbidden relations between classical and virtual generators. We investigated some algebraic properties of the constructed representations. In particular, we established conditions of faithfulness in case $n=2$ and proved that the kernel contains a free group of rank two for $n\ge3$.
+    url: https://www.mdpi.com/2073-8994/15/8/1538
+  categories: []
+  tags: []
 
-- title: An Example Paper on Security
-  publishedIn:
-    name: 2020 IEEE Region Symposium (TENSYMP)
-    date: 7 June 2020
-    url: https://example.com
-  authors:
-  - name: Dr. Madman
-    url: https://example.com
-  - name: Dr. Lessmad
-    url: https://example.com
-  - name: Dr. Moremad
-    url: https://example.com
-  - name: Dr. Goodman
-    url: https://example.com
-  paper:
-    summary: Dolor ad cupidatat pariatur nulla ipsum ex ullamco nisi anim ullamco. Dolore elit esse in exercitation minim aliqua. Amet velit incididunt magna laboris. Proident reprehenderit deserunt ad officia duis dolor. Tempor nostrud ullamco ullamco sint deserunt cupidatat irure minim consectetur nulla adipisicing sunt.
-    url: https://example.com
-  categories: ["security"]
-  tags: ["Machine Learning", "Autonomous Driving", "Machine Vision"]
+#- title: An Example Paper on Security
+#  publishedIn:
+#    name: 2020 IEEE Region Symposium (TENSYMP)
+#    date: 7 June 2020
+#    url: https://example.com
+#  authors:
+#  - name: Dr. Madman
+#    url: https://example.com
+#  - name: Dr. Lessmad
+#    url: https://example.com
+#  - name: Dr. Moremad
+#    url: https://example.com
+#  - name: Dr. Goodman
+#    url: https://example.com
+#  paper:
+#    summary: Dolor ad cupidatat pariatur nulla ipsum ex ullamco nisi anim ullamco. Dolore elit esse in exercitation minim aliqua. Amet velit incididunt magna laboris. Proident reprehenderit deserunt ad officia duis dolor. Tempor nostrud ullamco ullamco sint deserunt cupidatat irure minim consectetur nulla adipisicing sunt.
+#    url: https://example.com
+#  categories: ["security"]
+#  tags: ["Machine Learning", "Autonomous Driving", "Machine Vision"]

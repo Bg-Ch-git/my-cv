@@ -15,8 +15,8 @@ contactInfo:
 # some summary about what you do
 summary:
   - I am a Mathematician
-  - I am a Data Scientist
-  - I am a Bioinformatician
+#  - I am a Data Scientist
+#  - I am a Bioinformatician
   - I love Biology
   - I love to study
-  - I love to work with some fun projects
+#  - I love to work with some fun projects

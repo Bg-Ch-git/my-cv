@@ -231,4 +231,4 @@ erDiagram
 
 ## Embedded PDF
 
-{{< embed-pdf src="/files/resume.pdf" >}}
+{{< embed-pdf src="/files/Bogdan_Chuzhinov_CV.pdf" >}}

@@ -22,7 +22,7 @@ customMenus:
 - name: Simulacrum
   url: https://bg-ch-blog.com
   hideFromNavbar: false
-  showOnFooter: false
+  showOnFooter: true
 
 # Specify OpenGraph Headers //TODO
 openGraph:
