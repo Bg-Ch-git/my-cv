@@ -70,7 +70,7 @@ degrees:
   - title: Representations of Flat Virtual Braids by Automorphisms of Free Group
     url: "https://www.mdpi.com/2073-8994/15/8/1538"
   extracurricularActivities: #(optional)
-  - Participation in [International Scientific Student Conference 2023](https://conf.nsu.ru/en/issc_2023), the first prize for a talk in the geometry and topology section
+  - Participation in [International Scientific Student Conference 2023](https://conf.nsu.ru/en/issc_2023), the first prize for a talk in the geometry and analysis section
   - The second prize for the thesis in [Review of diploma works of Russian mathematicians 2023](https://nnov.hse.ru/bipm/fm/smotr2023)
   - Participation and poster presentation on [The Second Conference of Mathematical Centers of Russia](https://mathcenter.ru/conf-mathcenters-2) in the section "Geometry and Topology" 
   - A Talk on the conference [Mal'tsev Meeting 2022](http://old.math.nsc.ru/conference/malmeet/22/Main_e.htm) in the subsection "Infinite Groups" of the section "Group Theory"
@@ -93,7 +93,7 @@ degrees:
     achieved: 4.95
     outOf: 5
   extracurricularActivities: #(optional)
-  - Participation in [International Scientific Student Conference 2021](https://conf.nsu.ru/en/issc_2021), the third prize for a talk in the geometry and topology section
+  - Participation in [International Scientific Student Conference 2021](https://conf.nsu.ru/en/issc_2021), the third prize for a talk in the geometry and analysis section
   - A Talk on the international conference [Groups and Quandles in Low-Dimensional Topology 2021](http://gqlt.rmc.math.tsu.ru/)
 - name: Secondary School Certificate
   icon: fa-school
